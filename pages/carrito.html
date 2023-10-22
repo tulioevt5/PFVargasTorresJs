@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexwave</title>
+    <link rel="stylesheet" href="../styles/style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <aside>
+            <header>
+                <h1 class="logo">NexWave</h1>
+            </header>
+            <nav>
+                <ul>
+                    <li>
+                        <a class="boton-menu boton-volver" href="../index.html">
+                            <i class="bi bi-arrow-left"></i>Seguir comprando
+                        </a>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="pages/carrito.html">
+                            <i class="bi bi-cart-fill"></i>Carrito
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2023 NexWave</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal">Carrito</h2>
+            <div class="contenedor-carrito">
+                <p class="carrito-vacio">Tu carrito está vacío.<i class="bi bi-emoji-frown"></i></p>
+            </div>
+            <div class="carrito-productos">
+
+                <div class="carrito-producto">
+                    <img src="../img/cover-guts.png" alt="">
+                    <div class="carrito-producto-titulo">
+                        <small>Título</small>
+                        <h3>Vinilo GUTS</h3>
+                    </div>
+                    <div class="carrito-producto-cantidad">
+                        <small>Cantidad</small>
+                        <p>1</p>
+                        <div class="carrito-producto-precio">
+                            <small>Precio</small>
+                            <p>$1000</p>
+                        </div>
+                    </div>
+                    <div class="carrito-producto-subtotal">
+                       <small>Subtotal</small>
+                       <p>$1000</p>
+                       <button class="carrito-producto-eliminar"><i class="bi bi-trash-fill"></i></button>
+                    </div>
+                </div>
+                <div class="carrito-producto">
+                    <img src="../img/cover-guts.png" alt="">
+                    <div class="carrito-producto-titulo">
+                        <small>Título</small>
+                        <h3>Vinilo GUTS</h3>
+                    </div>
+                    <div class="carrito-producto-cantidad">
+                        <small>Cantidad</small>
+                        <p>1</p>
+                        <div class="carrito-producto-precio">
+                            <small>Precio</small>
+                            <p>$1000</p>
+                        </div>
+                    </div>
+                    <div class="carrito-producto-subtotal">
+                       <small>Subtotal</small>
+                       <p>$1000</p>
+                       <button class="carrito-producto-eliminar"><i class="bi bi-trash-fill"></i></button>
+                    </div>
+                </div>
+                <div class="carrito-acciones">
+                    <div class="carrito-acciones-izquierda">
+                       <button class="carrito-acciones-vaciar">Vaciar carrito</button> 
+                    </div>
+                    <div class="carrito-acciones-derecha">
+                        <div class="carrito-acciones-total">
+                            <p>Total: </p>
+                            <p id="total">$3000</p>
+                        </div>
+                        <button class="carrito-aciones-comprar">Comprar ahora</button>
+                    </div>
+                </div>
+
+
+            </div>
+        </main>
+    </div>
+
+
+
+
+
+    <script src="../scripts/main.js"></script>
+</body>
+</html>

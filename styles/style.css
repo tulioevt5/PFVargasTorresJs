@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,900;1,300;1,400;1,900&family=Rubik:wght@300;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    background-color: rgb(179, 167, 153);
+}
+
+aside{
+    padding: 2rem;
+    color: brown;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.logo{
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+
+.menu{
+    display: flex;
+    flex-direction: .85rem;
+    gap: 1rem;
+}
+
+.boton-menu{
+    background-color: transparent;
+    border: 0;
+    color: rgb(114, 98, 77);
+    font-size: .85rem;
+    cursor: pointer;
+
+}
+
+.texto-footer{
+    color:  rgb(114, 98, 77);
+    font-size: .85rem;
+}
+
+main{
+    background-color: white;
+    margin: 1rem;
+    margin-left: 0;
+    border-radius: 2rem;
+    padding: 2rem;
+
+}
+
+.titulo-principal{
+    color: brown;
+    margin-bottom: 2rem;
+
+}
+
+.contenedor-productos{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+}
+
+.producto-imagen{
+    max-width: 100%;
+    border-radius: 1rem;
+}
+
+.producto-detalles{
+    background-color: rgb(179, 167, 153) ;
+    color: rgb(114, 98, 77);
+    padding: rem;
+    border-radius: 1rem;
+    margin-top: -2rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+}
+
+producto-titulo{
+    font-size: 1rem;
+}
+
+.producto-agregar{
+    border: 0;
+    background-color: rgb(114, 98, 77);
+    padding: .4rem;
+    text-transform: uppercase;
+    border-radius: 1rem;
+    border: 2px solid rgb(179, 167, 153);
+    transition: background-color .25, color .2;
+}
+
+.producto-agregar:hover{
+    background-color: rgb(114, 98, 77);
+    color: rgb(179, 167, 153);
+}
