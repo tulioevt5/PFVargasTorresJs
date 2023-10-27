@@ -1,0 +1,182 @@
+[
+    {
+        "id": "vinyl-guts",
+        "titulo": "GUTS",
+        "imagen": "../img/vinilos/vinyl-guts.webp",
+        "categoria": {
+            "nombre": "Vinilos",
+            "id": "vinilos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vinyl-justice",
+        "titulo": "Justice",
+        "imagen": "../img/vinilos/vinyl-justice.webp",
+        "categoria": {
+            "nombre": "Vinilos",
+            "id": "vinilos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vinyl-dawn-fm",
+        "titulo": "Dawn FM",
+        "imagen": "../img/vinilos/vinyl-dawn-fm.webp",
+        "categoria": {
+            "nombre": "Vinilos",
+            "id": "vinilos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vinyl-happier-than-ever",
+        "titulo": "Happier Than Ever",
+        "imagen": "../img/vinilos/vinyl-happier-than-ever.webp",
+        "categoria": {
+            "nombre": "Vinilos",
+            "id": "vinilos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vinyl-born-pink",
+        "titulo": "BORN PINK",
+        "imagen": "../img/vinilos/vinyl-born-pink.webp",
+        "categoria": {
+            "nombre": "Vinilos",
+            "id": "vinilos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cds-billie-eilish",
+        "titulo": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "imagen": "../img/cds/cds-billie-eilish.webp",
+        "categoria": {
+            "nombre": "CD's",
+            "id": "cds"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cds-the-album",
+        "titulo": "THE ALBUM",
+        "imagen": "../img/cds/cds-the-album.webp",
+        "categoria": {
+            "nombre": "CD's",
+            "id": "cds"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cds-changes",
+        "titulo": "Changes",
+        "imagen": "../img/cds/cds-changes.webp",
+        "categoria": {
+            "nombre": "CD's",
+            "id": "cds"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cds-sour",
+        "titulo": "SOUR",
+        "imagen": "../img/cds/cds-sour.png",
+        "categoria": {
+            "nombre": "CD's",
+            "id": "cds"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cds-bad-bunny",
+        "titulo": "Un Verano Sin Ti",
+        "imagen": "../img/cds/cds-bad-bunny.jpg",
+        "categoria": {
+            "nombre": "CD's",
+            "id": "cds"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cds-smithereens",
+        "titulo": "SMITHEREENS",
+        "imagen": "../img/cds/cds-smithereens.webp",
+        "categoria": {
+            "nombre": "CD's",
+            "id": "cds"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cds-subtract",
+        "titulo": "Subtract",
+        "imagen": "../img/cds/cds-subtract.webp",
+        "categoria": {
+            "nombre": "CD's",
+            "id": "cds"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cds-starboy",
+        "titulo": "Starboy",
+        "imagen": "../img/cds/cds-starboy.webp",
+        "categoria": {
+            "nombre": "CD's",
+            "id": "cds"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fan-box-billie-eilish",
+        "titulo": "Fan Box Billie Eilish",
+        "imagen": "../img/fan-box/fan-box-billie-eilish.jpg",
+        "categoria": {
+            "nombre": "Fan Box",
+            "id": "fan-box"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fan-box-dua-lipa.jpg",
+        "titulo": "Fan Box Dua Lipa",
+        "imagen": "../img/fan-box/fan-box-dua-lipa.jpg",
+        "categoria": {
+            "nombre": "Fan Box",
+            "id": "fan-box"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fan-box-justin-bieber.jpg",
+        "titulo": "Fan Box Justin Bieber",
+        "imagen": "../img/fan-box/fan-box-justin-bieber.jpg",
+        "categoria": {
+            "nombre": "Fan Box",
+            "id": "fan-box"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fan-box-olivia-rodrigo",
+        "titulo": "Fan Box Olivia Rodrigo",
+        "imagen": "../img/fan-box/fan-box-olivia-rodrigo.webp",
+        "categoria": {
+            "nombre": "Fan Box",
+            "id": "fan-box"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fan-box-shawn-mendes",
+        "titulo": "Fan Box Shawn Mendes",
+        "imagen": "../img/fan-box/fan-box-shawn-mendes.jpg",
+        "categoria": {
+            "nombre": "Fan Box",
+            "id": "fan-box"
+        },
+        "precio": 1000
+    }
+]
